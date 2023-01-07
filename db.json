@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Jerry",
+      "image": "https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog1557403/Jerry_Maguire_SQ.jpg",
+      "price": "10",
+      "id": 8
+    },
+    {
+      "name": "Bonsai Tree",
+      "image": "https://www.mydomaine.com/thmb/xsWtkL_PDN_rwgZn-APrZWUVAFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-598322873-409b66c4895d492eb28fde9e752d98ad.jpg",
+      "price": "15",
+      "id": 9
     }
   ]
 }
